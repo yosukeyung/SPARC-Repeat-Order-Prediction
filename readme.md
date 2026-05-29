@@ -65,7 +65,7 @@ To explore our analysis and models locally:
     pip install -r requirements.txt
     `
 3.  Usage
-    Launch Jupyter Notebook and run the files in sequential order to understand the full pipeline.
+    Launch Jupyter Notebook and run the files in sequential order to understand the full pipeline:
     ```text
     1. Start with EDA_FINAL.ipynb
     2. Proceed to PreProcessing_FINAL.ipynb
