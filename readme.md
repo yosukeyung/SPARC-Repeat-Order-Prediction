@@ -66,12 +66,11 @@ To explore our analysis and models locally:
     `
 3.  Usage
     Launch Jupyter Notebook and run the files in sequential order to understand the full pipeline.
-    ```text 1. Start with EDA_FINAL.ipynb
-
+    ```text
+        1. Start with EDA_FINAL.ipynb
         2. Proceed to PreProcessing_FINAL.ipynb
-
         3. Conclude with ML_FINAL.ipynb
-        ```
+    ```
 
 ## 👨‍💻 Author
 
