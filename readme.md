@@ -61,9 +61,9 @@ To explore our analysis and models locally:
     ```
 2.  Setup Environment
     Ensure you have Python installed. Install the necessary libraries using pip:
-    `bash
+    ```bash
     pip install -r requirements.txt
-    `
+    ```
 3.  Usage
     Launch Jupyter Notebook and run the files in sequential order to understand the full pipeline:
     ```text
